@@ -1,5 +1,5 @@
 A = [1, 2, 3, 4]
-
+# beh
 #uses list comprehension
 def raiseTo(A: list, power: int):
     power = [x**power for x in A]
